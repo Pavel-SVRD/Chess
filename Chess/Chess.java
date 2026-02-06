@@ -1,14 +1,4 @@
-//Jessica Ahedo & Pavel Sverdlov
-// File rules:
-// We can implement start() and play(string move)
-//add any private fields, helper methods, nested classes/enums
 
-//We CAN NOT:
-//Change package chess; change the Player enum, 
-//change the method signatures of start/play, 
-//or add a main method , or use external libraries 
-
-//SUBMIT THIS FILE 
 package chess;
 
 
@@ -639,3 +629,4 @@ private static boolean isCheckmate(Player pl) {
         }
     }
 }
+
